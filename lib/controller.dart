@@ -5,7 +5,7 @@ import 'dart:convert' as convert;
 class FormController {
   final Function(String) callback;
   static const String url =
-      "https://script.google.com/macros/s/AKfycbz3FO-OlRSNwaNeXdtwFhPYA8effEn_Do19KX2VRHg4_a4uJ_ox3TpKLXNyer3ThVfy5w/exec";
+      "주소넣기";
   static const status_success = "SUCCESS";
 
   FormController(this.callback);
